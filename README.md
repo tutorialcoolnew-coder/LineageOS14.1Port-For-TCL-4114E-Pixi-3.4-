@@ -22,7 +22,7 @@ This ROM is for the TCL 4114E device, which has the same hardware as the Alcatel
 # Not Working Features: 
 
 * FM Radio 
-*(For some reason, my TCL doesn't have an earpiece speaker. I don't know if it's a factory defect or if it fell off at some point. I wasn't able to test that.)
+* (For some reason, my TCL doesn't have an earpiece speaker. I don't know if it's a factory defect or if it fell off at some point. I wasn't able to test that.)
 
 # Requirements: 
 

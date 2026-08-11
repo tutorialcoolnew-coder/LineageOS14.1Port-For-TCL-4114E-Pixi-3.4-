@@ -8,7 +8,10 @@ LINK: https://github.com/wakudev/LineageOS_Pixi_3_35
 This ROM is for the TCL 4114E device, which has the same hardware as the Alcatel OneTouch Pixi 3.4.
 (I downloaded the wakudev ROM to my PC and modified it locally.) This is my first time using GitHub.
 
-Use the AI to make the ROM and TWRP compatible.  
+Use the AI to make the ROM and TWRP compatible. 
+Specifically: Finding and understanding the system's file structure; identifying which files in the stock ROM corresponded to which functions (audio HAL, FM firmware, kernel) (the FM radio could not be made to work).
+
+The main method was to copy files from the official ROM to this modified ROM.
 
 # tested functions
 * Wi-Fi 

@@ -28,6 +28,6 @@ Use the AI to make the ROM and TWRP compatible.
 
 # Requirements: 
 
-* TWRP 3.X 
+* TWRP 3.2.3 
 * Charge it to at least 50% (it usually takes a while) 
 
